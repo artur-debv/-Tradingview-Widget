@@ -23,7 +23,7 @@ Tecnologias Utilizadas
 
 <h1>Deploy</h1>
 
-[Drop store](https://tradingviewswidget.netlify.app)
+[TradingView](https://tradingviewswidget.netlify.app)
 
 
 
