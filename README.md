@@ -27,6 +27,7 @@ Tecnologias Utilizadas
 
 
 
-[TradingView](https://github.com/artur-debv/-Tradingview-Widget/assets/97331300/a1169c8d-155a-44ba-9870-431c9eb8463f)
+![Screenshot_1](https://github.com/artur-debv/-Tradingview-Widget/assets/97331300/5353fd46-1ece-48f9-b7f9-2728c406d7a7)
+
 
 
