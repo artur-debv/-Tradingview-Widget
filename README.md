@@ -16,17 +16,17 @@
 Tecnologias Utilizadas
 
 <h1>tecnologias usadas</h1>
-<p>React: Para construir a interface do usuário interativa.</p>
-<p>Firebase Authentication (Google Auth): Para gerenciar a autenticação do usuário.</p>
-<p>Firebase Firestore: Para armazenar informações
-obre produtos e usuários.</p>
-<p>CSS/SCSS: Para estilizar os componentes da loja.</p>
+<p>HTML: Para construir a interface do usuário interativa.</p>
+<p>CSS:  Para estilizar e dar uma aparência visual ao seu widget</p>
+<p>Javascript: para adicionar funcionalidade dinâmica e interatividade</p>
+
 
 <h1>Deploy</h1>
 
-[Drop store](https://fsw-store-psi-six.vercel.app/)
+[Drop store](https://tradingviewswidget.netlify.app)
 
 
 
-![drop-store](https://github.com/artur-debv/Drop-store/assets/97331300/588e9b67-4b07-4927-9bb3-72f5d87a35e7)
+[TradingView](https://github.com/artur-debv/-Tradingview-Widget/assets/97331300/a1169c8d-155a-44ba-9870-431c9eb8463f)
+
 
